@@ -1,0 +1,8 @@
+{
+    "custom.pills": {
+        "category": "master",
+        "sounds": [
+            "custom/pills"
+        ]
+    }
+}

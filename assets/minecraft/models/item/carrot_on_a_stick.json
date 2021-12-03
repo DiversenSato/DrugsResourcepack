@@ -1,0 +1,26 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 614001
+            },
+                "model": "custom/meth_bag"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 614002
+            },
+                "model": "custom/mushroom"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 614010
+            },
+                "model": "custom/medicine"
+        }
+    ]
+}
